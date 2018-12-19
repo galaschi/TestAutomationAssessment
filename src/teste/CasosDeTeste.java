@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 import teste.Driver;
 import teste.Implementacao;
-import tests.Dados.Dados;
+import teste.Dados.Dados;
 
 public class CasosDeTeste extends Driver {
 
